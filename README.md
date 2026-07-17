@@ -78,23 +78,23 @@ A full-stack e-commerce application with product management, authentication, cat
 
 ## 📊 GitHub Stats
 
-![Mohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![Mohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohit200421\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Mohit200421\&theme=tokyonight\&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit200421\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME\&theme=tokyonight\&no-frame=true\&margin-w=10)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mohit200421\&theme=tokyonight\&no-frame=true\&margin-w=10)
 
 ---
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohit200421\&theme=tokyo-night)
 
 ---
 
